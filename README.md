@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Projects
 
 - **[Billing System](https://github.com/rotichtimothy/Billing-System)**: The Billing System is written in Python. It contains the necessary files to implement a basic billing system.
 - **[Password Generator](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
