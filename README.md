@@ -37,7 +37,7 @@
 - **[Simple Calculator](https://github.com/rotichtimothy/simple-calculator)**: The Simple Calculator is a Python-based project. It includes a single script named calculator.py. This script implements basic calculator functionalities.
 - **[To Do List App](https://github.com/rotichtimothy/to-do-list-app)**: The To Do List App is a simple web-based application built using HTML, CSS, and JavaScript. It contains three files: index.html, styles.css, and scripts.js. These files collectively implement a basic to-do list application, allowing users to add, manage, and track tasks.
 - **[Countdown Timer](https://github.com/rotichtimothy/countdown-timer)**: The Countdown Timer is a Python-based project. It contains a script named countdown-timer.py, which implements a basic countdown timer functionality.
-
+- **[Quote Generator](https://github.com/rotichtimothy/quote-generator)**: The Quote Generator is a Python-based project. It contains a script named quote-generator.py, which implements functionality to generate random quotes.
 ---
 
 ## 📫 How to reach me
