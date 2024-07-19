@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🏆 Achievements
 
-- **[Project 1](https://github.com/yourusername/project1)**: Brief description of the project.
-- **[Project 2](https://github.com/yourusername/project2)**: Brief description of the project.
-- **[Project 3](https://github.com/yourusername/project3)**: Brief description of the project.
+- **[Project 1](https://github.com/rotichtimothy/Billing-System)**: The Billing System is written in Python. It contains the necessary files to implement a basic billing system.
+- **[Project 2](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
+- **[Project 3](https://github.com/rotichtimothy/simple-calculator)**: The Simple Calculator is a Python-based project. It includes a single script named calculator.py. This script implements basic calculator functionalities.
 
 ## 📫 How to reach me
 
