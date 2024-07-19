@@ -32,9 +32,9 @@
 
 ## 🏆 Achievements
 
-- **[Book Store](https://github.com/rotichtimothy/Book-Store)**: An online platform for managing book inventories, sales, and customer interactions.
-- **[Customer Feedback Analysis](https://github.com/rotichtimothy/Customer-Feedback-Analysis)**: A project to analyze and visualize customer feedback using natural language processing techniques.
-- **[Portfolio](https://github.com/rotichtimothy/portfolio)**: A personal portfolio website showcasing my skills, projects, and experiences.
+- **[Billing System](https://github.com/rotichtimothy/Billing-System)**: The Billing System is written in Python. It contains the necessary files to implement a basic billing system.
+- **[Password Generator](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
+- **[Simple Calculator](https://github.com/rotichtimothy/simple-calculator)**: The Simple Calculator is a Python-based project. It includes a single script named calculator.py. This script implements basic calculator functionalities.
 
 ---
 
