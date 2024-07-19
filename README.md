@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Timothy Rotich</h1>
+<h1 align="center">Hi there! 👋 </h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to browse around and connect with me!
@@ -36,6 +36,7 @@
 - **[Password Generator](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
 - **[Simple Calculator](https://github.com/rotichtimothy/simple-calculator)**: The Simple Calculator is a Python-based project. It includes a single script named calculator.py. This script implements basic calculator functionalities.
 - **[To Do List App](https://github.com/rotichtimothy/to-do-list-app)**: The To Do List App is a simple web-based application built using HTML, CSS, and JavaScript. It contains three files: index.html, styles.css, and scripts.js. These files collectively implement a basic to-do list application, allowing users to add, manage, and track tasks.
+- **[Countdown Timer](https://github.com/rotichtimothy/countdown-timer)**: The Countdown Timer is a Python-based project. It contains a script named countdown-timer.py, which implements a basic countdown timer functionality.
 
 ---
 
