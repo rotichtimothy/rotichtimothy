@@ -32,6 +32,7 @@
 
 ## 🏆 Projects
 
+- **[Shooter Game](https://github.com/rotichtimothy/Shooter-Game)**: This shooter game is a simple, level-based game where the player controls a white square at the bottom of the screen, shooting bullets upwards to destroy red enemy squares moving horizontally across the screen. The player must also collect green power-ups falling from the top of the screen to increase their score.
 - **[Billing System](https://github.com/rotichtimothy/Billing-System)**: The Billing System is written in Python. It contains the necessary files to implement a basic billing system.
 - **[Password Generator](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
 - **[Simple Calculator](https://github.com/rotichtimothy/simple-calculator)**: The Simple Calculator is a Python-based project. It includes a single script named calculator.py. This script implements basic calculator functionalities.
