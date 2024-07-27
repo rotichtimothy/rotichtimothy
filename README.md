@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
@@ -23,8 +22,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rotichtimothy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotichtimothy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -32,6 +29,7 @@
 
 ## 🏆 Projects
 
+-**[Heart Amimation](https://github.com/rotichtimothy/Heart-Animation)**: The Heart Animation project contains code for a simple animation of a heart shape. The repository includes three primary files: index.html, styles.css, and script.js, which are responsible for structuring the webpage, styling the heart, and animating it, respectively.
 - **[Shooter Game](https://github.com/rotichtimothy/Shooter-Game)**: This Python script creates a basic 2D shooter game using Pygame, where the player controls a spaceship that can move left and right at the bottom of the screen and shoot bullets to destroy incoming enemies.
 - **[Billing System](https://github.com/rotichtimothy/Billing-System)**: The Billing System is written in Python. It contains the necessary files to implement a basic billing system.
 - **[Password Generator](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
