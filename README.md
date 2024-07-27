@@ -29,16 +29,11 @@
 
 ## 🏆 Projects
 
--**[Heart Amimation](https://github.com/rotichtimothy/Heart-Animation)**: The Heart Animation project contains code for a simple animation of a heart shape. The repository includes three primary files: index.html, styles.css, and script.js, which are responsible for structuring the webpage, styling the heart, and animating it, respectively.
-- **[Shooter Game](https://github.com/rotichtimothy/Shooter-Game)**: This Python script creates a basic 2D shooter game using Pygame, where the player controls a spaceship that can move left and right at the bottom of the screen and shoot bullets to destroy incoming enemies.
-- **[Billing System](https://github.com/rotichtimothy/Billing-System)**: The Billing System is written in Python. It contains the necessary files to implement a basic billing system.
-- **[Password Generator](https://github.com/rotichtimothy/Password-Generator)**: The Password Generator is a Python-based project. It contains a script named password-generator.py which generates passwords.
-- **[Simple Calculator](https://github.com/rotichtimothy/simple-calculator)**: The Simple Calculator is a Python-based project. It includes a single script named calculator.py. This script implements basic calculator functionalities.
-- **[BMI Calculator](https://github.com/rotichtimothy/BMI-Calculator)**: The BMI Calculator is a Python-based project. It includes a script named bmi.py which calculates the Body Mass Index (BMI) based on user input of height and weight.
-- **[To Do List App](https://github.com/rotichtimothy/to-do-list-app)**: The To Do List App is a simple web-based application built using HTML, CSS, and JavaScript. It contains three files: index.html, styles.css, and scripts.js. These files implement a basic to-do list application, allowing users to add, manage, and track tasks.
-- **[Countdown Timer](https://github.com/rotichtimothy/countdown-timer)**: The Countdown Timer is a Python-based project. It contains a script named countdown-timer.py, which implements a basic countdown timer functionality.
-- **[Quote Generator](https://github.com/rotichtimothy/quote-generator)**: The Quote Generator is a Python-based project. It contains a script named quote-generator.py, which implements functionality to generate random quotes.
----
+<p align="center">
+  Please visit my repositories to see all the projects.
+  <br>
+  <a htef="https://github.com/rotichtimothy?tab=repositories">🏆</a>
+</p>
 
 ## 📫 How to reach me
 
