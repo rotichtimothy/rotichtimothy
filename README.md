@@ -32,7 +32,7 @@
 <p align="center">
   Please visit my repositories to see all the projects.
   <br>
-  <a href="https://github.com/rotichtimothy?tab=repositories">🏆</a>
+  <button><a href="https://github.com/rotichtimothy?tab=repositories">Projects</a></button>
 </p>
 
 ## 📫 How to reach me
