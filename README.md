@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to browse around and connect with me!
+  Welcome to my GitHub profile! I'm a passionate IT Officer with an information security background who loves creating innovative solutions and exploring new technologies. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to browse around and connect with me!
 </p>
 
 ---
