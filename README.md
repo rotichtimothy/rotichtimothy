@@ -1,7 +1,7 @@
-<h1 align="center">Hi! 👋 </h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate IT Officer with an information security background who loves creating innovative solutions and exploring new technologies. Here, you'll find a collection of my projects, contributions, and experiments. Feel free to browse around and connect with me!
+  I'm <strong>Timothy Rotich</strong>, an IT Officer and Information Security enthusiast. I have a background in Information Security & Forensics and a passion for building secure, innovative solutions. Currently exploring advanced topics in network and information security and sharing my projects, experiments, and contributions here on GitHub.
 </p>
 
 ---
@@ -15,19 +15,24 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=networking&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity" />
 </p>
 
 ---
 
-## 🏆 Projects
+## 🏆 Featured Projects
 
 <p align="center">
-  Please visit my repositories to see all the projects.
+  Check out my repositories to explore projects focused on web security, network monitoring, and forensic analysis.  
   <br>
-  <button><a href="https://github.com/rotichtimothy?tab=repositories">Projects</a></button>
+  <a href="https://github.com/rotichtimothy?tab=repositories"><button>View Projects</button></a>
 </p>
 
-## 📫 How to reach me
+---
+
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timothy-rotich-ab414a2a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -37,5 +42,5 @@
 ---
 
 <p align="center">
-  ⭐️ Feel free to check out my repositories and leave a star if you find something interesting! Happy coding! 😊
+  ⭐ If you find my work interesting, feel free to explore my repositories and leave a star. Happy coding! 😊
 </p>
