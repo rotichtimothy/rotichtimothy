@@ -22,12 +22,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rotichtimothy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotichtimothy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🏆 Featured Projects
 
 <p align="center">
   Check out my repositories to explore projects focused on web security, network monitoring, and forensic analysis.  
   <br>
   <a href="https://github.com/rotichtimothy?tab=repositories"><button>View Projects</button></a>
+</p>
+
+---
+
+## 🌱 Latest Repositories
+
+<p align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=rotichtimothy&theme=react-dark&area=true" alt="GitHub Activity Graph"></a>
 </p>
 
 ---
