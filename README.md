@@ -1,7 +1,11 @@
-<h1 align="center">Hi there! 👋</h1>
+# Hi there! 👋
 
 <p align="center">
-  I'm <strong>Timothy Rotich</strong>, an IT Officer and Information Security enthusiast. I have a background in Information Security & Forensics and a passion for building secure, innovative solutions. Currently exploring advanced topics in network and information security and sharing my projects, experiments, and contributions here on GitHub.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=1000&color=FF00AA&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+👋;I'm+Timothy+Rotich;IT+Officer+%26+InfoSec+Enthusiast" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  🛡️ Information Security & Forensics Professional | Building Secure Solutions | Cybersecurity Explorer
 </p>
 
 ---
@@ -25,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rotichtimothy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotichtimothy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rotichtimothy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotichtimothy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -34,17 +38,19 @@
 ## 🏆 Featured Projects
 
 <p align="center">
-  Check out my repositories to explore projects focused on web security, network monitoring, and forensic analysis.  
-  <br>
-  <a href="https://github.com/rotichtimothy?tab=repositories"><button>View Projects</button></a>
+  Explore my repositories focused on web security, network monitoring, and forensic analysis.
+  <br><br>
+  <a href="https://github.com/rotichtimothy?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Projects-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
+  </a>
 </p>
 
 ---
 
-## 🌱 Latest Repositories
+## 🌱 GitHub Activity
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=rotichtimothy&theme=react-dark&area=true" alt="GitHub Activity Graph"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rotichtimothy&theme=react-dark&area=true&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -52,12 +58,23 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/timothy-rotich-ab414a2a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rotichtimothy202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/timothy-rotich-ab414a2a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rotichtimothy202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/rotichtimothy">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you find my work interesting, feel free to explore my repositories and leave a star. Happy coding! 😊
+  ⭐ If you find my work interesting, feel free to explore my repositories and leave a star. Happy coding! 💻🔒
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rotichtimothy&label=Profile+Views&color=007BFF&style=flat" alt="Profile Views" />
 </p>
