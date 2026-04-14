@@ -47,14 +47,6 @@
 
 ---
 
-## 🌱 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rotichtimothy&theme=react-dark&area=true&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
