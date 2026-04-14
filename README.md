@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Timothy Rotich
+<p align="center">
+  👋 Hi
+</p>
 
 <p align="center">
   🛡️ <strong>Information Security & Digital Forensics Professional</strong><br>
