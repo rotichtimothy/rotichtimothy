@@ -42,8 +42,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rotichtimothy&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rotichtimothy&theme=tokyonight" />
 </p>
 
@@ -51,23 +49,11 @@
 
 ## 🏆 Featured Projects
 
-- 🔐 **Web Security Scanner** – Identifies common vulnerabilities in web applications  
-- 🌐 **Network Monitoring Tool** – Tracks traffic and detects anomalies  
-- 🧪 **Digital Forensics Toolkit** – Assists in evidence collection and analysis  
-
 <p align="center">
   <a href="https://github.com/rotichtimothy?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Projects-007BFF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📚 Currently Learning
-
-- 🛡️ Penetration Testing & Ethical Hacking  
-- 🔍 Malware Analysis & Reverse Engineering  
-- ☁️ Cloud Security (AWS & Azure Fundamentals)  
 
 ---
 
