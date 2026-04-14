@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Rotich
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=FF00AA&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Timothy+Rotich;IT+Officer+%7C+Cybersecurity+Enthusiast;Building+Secure+Solutions" />
+  font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=FF00AA&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Timothy+Rotich;IT+Officer+%7C+Cybersecurity+Enthusiast;Building+Secure+Solutions"
 </p>
 
 <p align="center">
