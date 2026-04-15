@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🛡️ <strong>Information Security & Digital Forensics Professional</strong><br>
+  🛡️ <strong>Information Security & Digital Forensics</strong><br>
   🔍 Passionate about securing systems, analyzing threats, and building resilient solutions
 </p>
 
