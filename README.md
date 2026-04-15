@@ -35,14 +35,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rotichtimothy&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 <p align="center">
