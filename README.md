@@ -82,5 +82,5 @@ I'm a cybersecurity and digital forensics professional focused on building secur
 </div>
 
 <div align='center'>
-[![Profile Views](https://komarev.com/ghpvc/?username=rotichtimothy&label=Profile+Views&color=0A66C2&style=flat)](https://github.com/rotichtimothy)
+[![Profile Views](https://komarev.com/ghpvc/?username=rotichtimothy&label=Profile+Views&color=0A66C2&style=flat)]
 </div>
